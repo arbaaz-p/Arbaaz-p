@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd year Computer Science student @LangaraCollege. <br>Interested in cybersecurity and security systems<br> <br>🚀 Currently Working On<br>• Building personal programming projects<br>• Exploring cybersecurity and ethical hacking<br><br>📚 Currently Learning<br>• Data Structures & Algorithms<br>• Object-Oriented Programming<br>• Networking basics<br>
+2nd year Computer Science student @LangaraCollege. <br>Interested in cybersecurity and security systems<br> <br>🚀 Currently Working On<br>• Building personal programming projects<br>• Exploring cybersecurity and ethical hacking<br><br>📚 Currently Learning<br>• Database Systems<br>• Encryption<br>
 
 
 ## 🌐 Socials:
